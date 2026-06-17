@@ -1,21 +1,19 @@
 MIT License
 
-Copyright (c) 2026 NKDeveloper
+Copyright (c) 2026 Kolja
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Atļauja ar šo bez maksas tiek piešķirta jebkurai personai, kura iegūst šīs
+programmatūras un saistīto dokumentācijas failu (turpmāk – “Programmatūra”)
+kopiju, rīkoties ar Programmatūru bez ierobežojumiem, tostarp bez ierobežojuma
+tiesības lietot, kopēt, modificēt, apvienot, publicēt, izplatīt, izsniegt
+apakšlicences un/vai pārdot Programmatūras kopijas, kā arī atļaut to darīt
+personām, kurām Programmatūra tiek nodota, ievērojot šādus nosacījumus:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Iepriekš minētais autortiesību paziņojums un šī atļaujas atruna tiek iekļauta
+visās Programmatūras kopijās vai būtiskās tās daļās.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+PROGRAMMATŪRA TIEK NODROŠINĀTA “TĀDA, KĀDA TĀ IR”, BEZ JEBKĀDA VEIDA GARANTIJĀM,
+TIEŠĀM VAI NETIEŠĀM, IESKAITOT, BET NEAPROBEŽOJOTIES AR GARANTIJĀM PAR
+PIEMĒROTĪBU PĀRDOŠANAI, ATBILSTĪBU NOTEIKTAM MĒRĶIM UN NEPĀRKĀPŠANU. AUTORI VAI
+AUTORTIESĪBU ĪPAŠNIEKI NEKĀDĀ GADĪJUMĀ NEATBILD PAR JEBKĀDĀM PRASĪBĀM,
+ZAUDĒJUMIEM VAI CITU ATBILDĪBU.

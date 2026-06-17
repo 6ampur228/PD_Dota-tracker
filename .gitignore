@@ -1,0 +1,6 @@
+# Python
+__pycache__/
+*.pyc
+
+# Datubazes fails (tiek izveidots automatiski)
+dota_tracker.db
